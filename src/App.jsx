@@ -63,7 +63,7 @@ function App() {
   return (
   <div className="w-screen h-screen flex justify-center p-6 overflow-hidden relative">
     <div className="absolute inset-0 z-[-1]">
-      <div style={{ width: '100%', height: 680, position: 'relative'  }}>
+      <div style={{ width: '100%', height: 780, position: 'relative'  }}>
         <LiquidEther
           colors={[ '#5227FF', '#FF9FFC', '#B19EEF' ]}
           mouseForce={20}
